@@ -105,7 +105,7 @@
     &kp A     &bhm LEFT_GUI S     &bhm LEFT_CONTROL D  &bhm LEFT_SHIFT F &kp G &kp H  &bhm RIGHT_SHIFT J     &bhm RIGHT_CONTROL K &bhm RIGHT_GUI L  &kp SEMICOLON
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  Z       │  X       │  C       │  V       │  B       │   │  N       │  M       │ , <      │ . >      │ _        │
-             &kp Z    &kp X       &kp C      &kp V      &kp B          &kp N   &bhm LEFT_ALT M  &kp COMMA  &kp DOT    &kp SLASH
+             &kp Z    &kp X       &kp C      &kp V      &kp B          &kp N   &kp M   &bhm LEFT_ALT COMMA  &kp DOT    &kp SLASH
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┴──────────╯
                                         &lt NAV ESC &lt EXTRA SPACE     &lt SYM ENTER &kp BSPC
         //                      ╰──────────┴──────────┴──────────╯   ╰──────────┴──────────┴──────────╯
