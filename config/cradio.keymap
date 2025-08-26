@@ -141,7 +141,7 @@
             &kp RA(N1) &kp RA(N2) &kp RA(N3) &kp RA(N4) &kp RA(N5)    &kp LS(MINUS) &kp RA(N7) &kp RA(N8) &kp RA(N9) &kp RA(N0)
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  Z       │  X       │  C       │  V       │  B       │   │  N       │  M       │ , <      │ . >      │ ENTER    │
- &kp NON_US_BSLH &kp LS(NON_US_BSLH) &kp RA(NON_US_BSLH) &kp LS(RIGHT_BRACKET) &kp LS(EQUAL) &kp RA(BACKSLASH) &kp BACKSLASH &kp LS(COMMA) &kp LS(DOT) &kp LS(SLASH)
+ &kp NON_US_BSLH &kp LS(NON_US_BSLH) &kp RA(NON_US_BSLH) &kp LS(RIGHT_BRACKET) &kp LS(EQUAL) &kp RA(BACKSLASH) &kp RA(MINUS) &kp LS(COMMA) &kp LS(DOT) &kp LS(SLASH)
 
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┴──────────╯
                                              &kp LS(TAB) &kp TAB      &trans      &trans
